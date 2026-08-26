@@ -3,10 +3,181 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Blog A-Z Biuro</title>
+
+  <title>Wiedza i Marka | A-Z Biuro</title>
+  <meta name="description" content="Wiedza, inspiracje, marki i praktyczne rozwiązania dla biura. Blog A-Z Biuro.">
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      color: #222;
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    header {
+      border-bottom: 1px solid #e5e5e5;
+      padding: 20px 8%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-size: 24px;
+      font-weight: 700;
+    }
+
+    nav a {
+      margin-left: 25px;
+      text-decoration: none;
+      color: #222;
+      font-weight: 600;
+    }
+
+    .hero {
+      padding: 90px 8%;
+      max-width: 1100px;
+    }
+
+    .hero span {
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      font-weight: 700;
+    }
+
+    .hero h1 {
+      font-size: 54px;
+      line-height: 1.1;
+      margin: 15px 0 25px;
+    }
+
+    .hero p {
+      font-size: 20px;
+      max-width: 700px;
+      color: #555;
+    }
+
+    .sections {
+      padding: 30px 8% 80px;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 25px;
+    }
+
+    .card {
+      border: 1px solid #ddd;
+      padding: 30px;
+      border-radius: 12px;
+      min-height: 200px;
+    }
+
+    .card h2 {
+      margin-bottom: 12px;
+      font-size: 24px;
+    }
+
+    .card p {
+      color: #666;
+    }
+
+    footer {
+      margin-top: 50px;
+      border-top: 1px solid #e5e5e5;
+      padding: 30px 8%;
+      color: #666;
+    }
+
+    @media (max-width: 800px) {
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      nav {
+        margin-top: 15px;
+      }
+
+      nav a {
+        margin: 0 15px 0 0;
+      }
+
+      .hero h1 {
+        font-size: 38px;
+      }
+
+      .sections {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
 </head>
+
 <body>
-  <h1>Blog A-Z Biuro</h1>
-  <p>Strona działa poprawnie.</p>
+
+<header>
+  <div class="logo">A-Z BIURO</div>
+
+  <nav>
+    <a href="https://eazbiuro.pl">Sklep</a>
+    <a href="https://poradnik.eazbiuro.pl">Poradnik</a>
+    <a href="/">Wiedza i Marka</a>
+  </nav>
+</header>
+
+<main>
+
+  <section class="hero">
+    <span>A-Z Biuro</span>
+
+    <h1>Wiedza i Marka</h1>
+
+    <p>
+      Inspiracje, wiedza ekspercka, marki, rozwiązania i praktyczne
+      informacje dla nowoczesnego biura.
+    </p>
+  </section>
+
+  <section class="sections">
+
+    <article class="card">
+      <h2>Wiedza</h2>
+      <p>
+        Praktyczne artykuły i ekspercka wiedza pomagająca lepiej
+        organizować pracę i przestrzeń biurową.
+      </p>
+    </article>
+
+    <article class="card">
+      <h2>Marki</h2>
+      <p>
+        Poznaj producentów, technologie, produkty i rozwiązania,
+        które warto znać.
+      </p>
+    </article>
+
+    <article class="card">
+      <h2>Inspiracje</h2>
+      <p>
+        Pomysły, trendy i nowe rozwiązania dla firm, biur,
+        szkół i instytucji.
+      </p>
+    </article>
+
+  </section>
+
+</main>
+
+<footer>
+  © A-Z Biuro
+</footer>
+
 </body>
 </html>
