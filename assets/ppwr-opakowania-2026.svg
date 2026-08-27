@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">PPWR i opakowania — ilustracja redakcyjna</title><desc id="d">Ilustracja pudeł, opakowań i daty 12 sierpnia 2026 symbolizująca rozpoczęcie stosowania PPWR.</desc>
+<rect width="1600" height="900" fill="#f6f7f8"/>
+<rect x="0" y="0" width="1600" height="135" fill="#cd0000"/>
+<text x="90" y="88" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#fff">PPWR • 12.08.2026</text>
+<text x="90" y="205" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#17212b">Opakowania w nowym otoczeniu regulacyjnym UE</text>
+<text x="90" y="255" font-family="Arial, sans-serif" font-size="25" fill="#59636d">Ilustracja redakcyjna Bloga A-Z Biuro</text>
+<g transform="translate(110,360)">
+ <rect x="0" y="90" width="360" height="250" rx="12" fill="#fff" stroke="#c6ccd2" stroke-width="5"/>
+ <path d="M0 90 L180 0 L360 90 L180 180 Z" fill="#e8eaed" stroke="#c6ccd2" stroke-width="5"/>
+ <path d="M180 180 V340" stroke="#c6ccd2" stroke-width="5"/>
+ <text x="92" y="280" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#cd0000">OPAKOWANIA</text>
+</g>
+<g transform="translate(590,330)">
+ <rect x="0" y="0" width="390" height="350" rx="26" fill="#fff" stroke="#105fa6" stroke-width="6"/>
+ <rect x="0" y="0" width="390" height="82" rx="23" fill="#105fa6"/>
+ <text x="55" y="55" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#fff">12 SIERPNIA 2026</text>
+ <text x="65" y="150" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#17212b">PPWR zaczyna być</text>
+ <text x="65" y="192" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#17212b">stosowane w UE</text>
+ <line x1="65" y1="230" x2="325" y2="230" stroke="#d9dde1" stroke-width="4"/>
+ <text x="65" y="280" font-family="Arial, sans-serif" font-size="22" fill="#59636d">kolejne obowiązki</text>
+ <text x="65" y="314" font-family="Arial, sans-serif" font-size="22" fill="#59636d">wchodzą etapami</text>
+</g>
+<g transform="translate(1120,380)">
+ <circle cx="160" cy="160" r="150" fill="#fff" stroke="#7b848d" stroke-width="5"/>
+ <path d="M105 85 C175 40 255 70 286 130" fill="none" stroke="#cd0000" stroke-width="24" stroke-linecap="round"/>
+ <path d="M286 130 l-4 -65 l-58 30" fill="#cd0000"/>
+ <path d="M218 245 C150 287 73 257 42 197" fill="none" stroke="#105fa6" stroke-width="24" stroke-linecap="round"/>
+ <path d="M42 197 l4 65 l58 -30" fill="#105fa6"/>
+ <text x="97" y="177" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#17212b">ZMIANA</text>
+</g>
+<text x="90" y="820" font-family="Arial, sans-serif" font-size="28" fill="#39434d">Fakty • terminy • praktyczne wnioski dla zaopatrzenia i użytkowników opakowań</text>
+</svg>
