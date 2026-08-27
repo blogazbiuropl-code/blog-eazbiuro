@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://blog.eazbiuro.pl/</loc><lastmod>2026-08-27</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url><loc>https://blog.eazbiuro.pl/</loc><lastmod>2026-08-27</lastmod><changefreq>weekly</changefreq><priority>1.0</priority><image:image><image:loc>https://blog.eazbiuro.pl/assets/og-blog-eazbiuro.webp</image:loc><image:title>Blog A-Z Biuro</image:title></image:image></url>
   <url><loc>https://blog.eazbiuro.pl/aktualnosci/</loc><lastmod>2026-08-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://blog.eazbiuro.pl/aktualnosci/rok-szkolny-2026-2027-koncowka-przygotowan-szkol/</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://blog.eazbiuro.pl/aktualnosci/rok-szkolny-2026-2027-koncowka-przygotowan-szkol/</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.8</priority><image:image><image:loc>https://blog.eazbiuro.pl/assets/rok-szkolny-2026-2027-banner.webp</image:loc><image:title>Przygotowania do roku szkolnego 2026/2027</image:title></image:image></url>
   <url><loc>https://blog.eazbiuro.pl/nowosci/</loc><lastmod>2026-08-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://blog.eazbiuro.pl/nowosci/kalendarze-2027-w-firmach-co-obserwujemy-przed-sezonem-planowania/</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://blog.eazbiuro.pl/nowosci/kalendarze-2027-w-firmach-co-obserwujemy-przed-sezonem-planowania/</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.8</priority><image:image><image:loc>https://blog.eazbiuro.pl/assets/kalendarze-2027-planowanie-pracy.webp</image:loc><image:title>Kalendarze 2027 w ofercie A-Z Biuro</image:title></image:image></url>
   <url><loc>https://blog.eazbiuro.pl/o-blogu/</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>

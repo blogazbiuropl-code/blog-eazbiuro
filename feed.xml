@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Blog A-Z Biuro</title>
+<link>https://blog.eazbiuro.pl/</link>
+<description>Aktualności, praktyka, doświadczenia i nowości A-Z Biuro.</description>
+<language>pl-PL</language>
+<lastBuildDate>Thu, 27 Aug 2026 19:00:00 +0200</lastBuildDate>
+<atom:link href="https://blog.eazbiuro.pl/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Rok szkolny 2026/2027 tuż przed startem. Ostatnia prosta przygotowań szkół</title>
+<link>https://blog.eazbiuro.pl/aktualnosci/rok-szkolny-2026-2027-koncowka-przygotowan-szkol/</link>
+<guid isPermaLink="true">https://blog.eazbiuro.pl/aktualnosci/rok-szkolny-2026-2027-koncowka-przygotowan-szkol/</guid>
+<pubDate>Thu, 27 Aug 2026 08:00:00 +0200</pubDate>
+<category>Aktualności</category>
+<description><![CDATA[Końcówka sierpnia to moment na praktyczne sprawdzenie przygotowania placówki przed początkiem zajęć.]]></description>
+</item>
+<item>
+<title>Kalendarze 2027 już w ofercie. Co oznacza wcześniejszy start sezonu?</title>
+<link>https://blog.eazbiuro.pl/nowosci/kalendarze-2027-w-firmach-co-obserwujemy-przed-sezonem-planowania/</link>
+<guid isPermaLink="true">https://blog.eazbiuro.pl/nowosci/kalendarze-2027-w-firmach-co-obserwujemy-przed-sezonem-planowania/</guid>
+<pubDate>Thu, 27 Aug 2026 08:00:00 +0200</pubDate>
+<category>Nowości</category>
+<description><![CDATA[Kalendarze 2027 są już w ofercie A-Z Biuro. Materiał oddziela fakty źródłowe od redakcyjnych wniosków.]]></description>
+</item>
+</channel>
+</rss>
